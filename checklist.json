@@ -1,0 +1,15 @@
+{ 
+	"№ " : 1,
+	"Проверка" : "Ввод валидных значений во все поля регистрации согласно требованиям",
+	"Вводимые данные" : {
+				"name" : "artem",
+				"lastname" : "pryandev",
+				"email" : "art@ya.ru",
+				"password": "qwerty"
+				},
+        "expected result": "Отображается приветственное сообщение",
+        "status": "passed",
+        "comment": "",
+        "URL to bug-report": ""
+	
+}
